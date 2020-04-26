@@ -4,21 +4,21 @@ import 'bulma/bulma';
 import ContactList from './ContactList';
 
 let contacts = [{
-  id: 1,
-  name: 'Jane',
-  number: '909 900 0000'
-}, {
-  id: 2,
-  name: 'Sara',
-  number: '090 889 7654'
-}, {
-  id: 3,
-  name: 'Jack',
-  number: '678 543 8976'
-}, {
-  id: 4,
-  name: 'Androw',
-  number: '091 654 8768'
+    id: 1,
+    name: 'Jane',
+    number: '909 900 0000'
+  }, {
+    id: 2,
+    name: 'Sara',
+    number: '090 889 7654'
+  }, {
+    id: 3,
+    name: 'Jack',
+    number: '678 543 8976'
+  }, {
+    id: 4,
+    name: 'Androw',
+    number: '091 654 8768'
 }]
 
 class App extends React.Component {
